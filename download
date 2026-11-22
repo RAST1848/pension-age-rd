@@ -1,0 +1,5 @@
+# Microdatos de la GEIH: no se redistribuyen, se descargan del DANE
+geih_2024/
+*.csv
+*.zip
+salida*/
